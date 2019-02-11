@@ -16,7 +16,6 @@ Keithley Source Voltage Range: 1.1kV
 Compliance Level: 30uA
 
 Time/Date (HHMMSS.sss)	Voltage (V)	Current (A)	
-14:48:46.610	-5E+1	-1.180511E-6
 14:48:47.775	0E+0	1.467504E-8
 14:48:48.941	0E+0	1.282555E-8
 14:48:49.941	0E+0	1.298535E-8
@@ -120,4 +119,5 @@ Time/Date (HHMMSS.sss)	Voltage (V)	Current (A)
 14:51:09.059	-1E+3	-4.969471E-6
 14:51:10.059	-1E+3	-4.96455E-6
 14:51:11.059	-1E+3	-4.963404E-6
+14:51:12.059	-1E+3	-4.961246E-6
 14:51:12.059	-1E+3	-4.961246E-6
